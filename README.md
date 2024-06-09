@@ -17,4 +17,4 @@ The analysis included:
     Behavior in Extreme Cases: Generating plots of numerical solutions for values of 'h' close to the stability limit, showing the behavior of the methods in critical situations.
     Order of Convergence: Estimating the temporal order of convergence of each method and comparing it with the expected theoretical order.
 
-The report discusses the advantages and disadvantages of each method based on the results obtained, aiding in the choice of the most suitable method for different types of problems.
+
